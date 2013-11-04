@@ -2,8 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>itv</groupId>
   <artifactId>itv</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>itv</name>
+    <packaging>pom</packaging>
+    <version>0.0.1</version>
+    <modules>
+        <module>parser-contract</module>
+        <module>validator-contract</module>
+    </modules>
+    <name>itv</name>
   <build>
     <sourceDirectory>src</sourceDirectory>
   </build>
