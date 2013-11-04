@@ -9,9 +9,6 @@
         <module>validator-contract</module>
     </modules>
     <name>itv</name>
-  <build>
-    <sourceDirectory>src</sourceDirectory>
-  </build>
   <dependencies>
 
         <dependency>
