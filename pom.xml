@@ -8,6 +8,7 @@
         <module>parser-contract</module>
         <module>validator-contract</module>
         <module>persistence-contract</module>
+        <module>parser</module>
     </modules>
     <name>itv</name>
   <dependencies>

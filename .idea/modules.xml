@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/itv.iml" filepath="$PROJECT_DIR$/itv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser/parser.iml" filepath="$PROJECT_DIR$/parser/parser.iml" />
       <module fileurl="file://$PROJECT_DIR$/parser-contract/parser-contract.iml" filepath="$PROJECT_DIR$/parser-contract/parser-contract.iml" />
       <module fileurl="file://$PROJECT_DIR$/persistence-contract/persistence-contract.iml" filepath="$PROJECT_DIR$/persistence-contract/persistence-contract.iml" />
       <module fileurl="file://$PROJECT_DIR$/validator-contract/validator-contract.iml" filepath="$PROJECT_DIR$/validator-contract/validator-contract.iml" />

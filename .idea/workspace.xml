@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" name="Default" comment="">
+    <list default="true" id="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" name="Default" comment="workspace.xml ist kleiner geworden.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/atlassian-ide-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parser/parser.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parser/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence-contract/pom.xml" afterPath="$PROJECT_DIR$/persistence-contract/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/validator-contract/pom.xml" afterPath="$PROJECT_DIR$/validator-contract/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="itv.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="parser-contract/target/" />
-    <file path="/Dummy.txt" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383827967589" ignored="false" />
-    <file path="/pom.xml" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383584670116" ignored="false" />
+    <file path="/Dummy.txt" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383828377803" ignored="false" />
+    <file path="/pom.xml" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383833210721" ignored="false" />
     <file path="/UserRepository.java" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383586077271" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +91,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="20" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0">
+            <state line="12" column="20" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,19 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/validator-contract/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/persistence-contract/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="10" selection-start="492" selection-end="492" vertical-scroll-proportion="0.50359714">
+            <state line="9" column="38" selection-start="428" selection-end="428" vertical-scroll-proportion="0.3253012">
               <folding />
             </state>
           </provider>
@@ -127,7 +127,16 @@
       <file leaf-file-name="UserRepository.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/persistence-contract/src/main/java/de/neuland/itv/persistence/UserRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
+            <state line="2" column="17" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parser/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -173,8 +182,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/parser-contract/pom.xml" />
-        <option value="$PROJECT_DIR$/validator-contract/pom.xml" />
         <option value="$PROJECT_DIR$/persistence-contract/src/main/java/de/neuland/itv/persistence/UserRepository.java" />
+        <option value="$PROJECT_DIR$/parser/pom.xml" />
+        <option value="$PROJECT_DIR$/persistence-contract/pom.xml" />
+        <option value="$PROJECT_DIR$/validator-contract/pom.xml" />
       </list>
     </option>
   </component>
@@ -264,90 +275,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="itv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="persistence-contract" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="persistence-contract" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="persistence-contract" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="persistence-contract" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="persistence" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -482,14 +409,18 @@
       <created>1383586102628</created>
       <updated>1383586102628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="workspace.xml ist kleiner geworden.">
+      <created>1383828369097</created>
+      <updated>1383828369097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="25" width="1606" height="877" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3625171" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36351165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -503,11 +434,12 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38545954" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982505" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29407978" sideWeight="0.6374829" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29407978" sideWeight="0.6364883" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Fireworks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -518,7 +450,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -565,7 +496,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vertrag für Persistenz begonnen&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml ist kleiner geworden." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -582,6 +513,7 @@
     <MESSAGE value="Verträge als separate Maven-Projekte modelliert." />
     <MESSAGE value="Kein SNAPSHOT mehr in der Versionsnummer." />
     <MESSAGE value="Vertrag für Persistenz begonnen&#10;" />
+    <MESSAGE value="workspace.xml ist kleiner geworden." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -610,20 +542,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/validator-contract/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/persistence-contract/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="10" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/persistence-contract/src/main/java/de/neuland/itv/persistence/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
@@ -685,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0">
+        <state line="12" column="20" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -697,23 +615,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validator-contract/pom.xml">
+    <entry file="file://$PROJECT_DIR$/persistence-contract/src/main/java/de/neuland/itv/persistence/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0">
+        <state line="2" column="17" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/persistence-contract/src/main/java/de/neuland/itv/persistence/UserRepository.java">
+    <entry file="file://$PROJECT_DIR$/parser/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
+        <state line="12" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/persistence-contract/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="10" selection-start="492" selection-end="492" vertical-scroll-proportion="0.50359714">
+        <state line="11" column="21" selection-start="451" selection-end="451" vertical-scroll-proportion="0.39759037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/ant.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validator-contract/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="38" selection-start="428" selection-end="428" vertical-scroll-proportion="0.3253012">
           <folding />
         </state>
       </provider>
@@ -771,7 +703,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>persistence-contract</last-edited>
+          <last-edited>parser</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
