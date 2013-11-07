@@ -9,6 +9,9 @@
         <module>validator-contract</module>
         <module>persistence-contract</module>
         <module>parser</module>
+        <module>controller</module>
+        <module>validator</module>
+        <module>persistence</module>
     </modules>
     <name>itv</name>
   <dependencies>

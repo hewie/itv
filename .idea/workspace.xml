@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" name="Default" comment="workspace.xml ist kleiner geworden.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/atlassian-ide-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parser/parser.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parser/pom.xml" />
+    <list default="true" id="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/controller.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/persistence/persistence.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/persistence/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validator/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validator/validator.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence-contract/pom.xml" afterPath="$PROJECT_DIR$/persistence-contract/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/validator-contract/pom.xml" afterPath="$PROJECT_DIR$/validator-contract/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="itv.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="parser-contract/target/" />
-    <file path="/Dummy.txt" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383828377803" ignored="false" />
-    <file path="/pom.xml" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383833210721" ignored="false" />
+    <file path="/Dummy.txt" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383833520396" ignored="false" />
+    <file path="/pom.xml" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383834353683" ignored="false" />
     <file path="/UserRepository.java" changelist="c1c81fe2-1545-4eeb-87ad-df97fd1be68a" time="1383586077271" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +90,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="20" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
+            <state line="15" column="20" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,10 +114,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/validator-contract/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="38" selection-start="428" selection-end="428" vertical-scroll-proportion="0.3253012">
+            <state line="9" column="38" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controller/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="0" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.7108434">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/persistence/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="22" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/validator/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="18" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -137,24 +163,6 @@
         <entry file="file://$PROJECT_DIR$/parser/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserValidationResponse.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validator-contract/src/main/java/de/neuland/itv/validator/UserValidationResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="23" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ErrorMessage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validator-contract/src/main/java/de/neuland/itv/validator/ErrorMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="17" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -186,6 +194,9 @@
         <option value="$PROJECT_DIR$/parser/pom.xml" />
         <option value="$PROJECT_DIR$/persistence-contract/pom.xml" />
         <option value="$PROJECT_DIR$/validator-contract/pom.xml" />
+        <option value="$PROJECT_DIR$/validator/pom.xml" />
+        <option value="$PROJECT_DIR$/persistence/pom.xml" />
+        <option value="$PROJECT_DIR$/controller/pom.xml" />
       </list>
     </option>
   </component>
@@ -413,7 +424,11 @@
       <created>1383828369097</created>
       <updated>1383828369097</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="maven package &quot;parser&quot; hinzugefügt. &#10;">
+      <created>1383833573612</created>
+      <updated>1383833573612</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -496,7 +511,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml ist kleiner geworden." />
+    <option name="LAST_COMMIT_MESSAGE" value="maven package &quot;parser&quot; hinzugefügt. &#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -514,6 +529,7 @@
     <MESSAGE value="Kein SNAPSHOT mehr in der Versionsnummer." />
     <MESSAGE value="Vertrag für Persistenz begonnen&#10;" />
     <MESSAGE value="workspace.xml ist kleiner geworden." />
+    <MESSAGE value="maven package &quot;parser&quot; hinzugefügt. &#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -542,27 +558,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/persistence-contract/src/main/java/de/neuland/itv/persistence/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validator-contract/src/main/java/de/neuland/itv/validator/UserValidationResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validator-contract/src/main/java/de/neuland/itv/validator/ErrorMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../inno/pflaume/project.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="6" selection-start="81" selection-end="81" vertical-scroll-proportion="0.042613637" />
@@ -603,7 +598,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="20" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
+        <state line="15" column="20" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -645,7 +640,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/validator-contract/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="38" selection-start="428" selection-end="428" vertical-scroll-proportion="0.3253012">
+        <state line="9" column="38" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistence/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="22" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.7108434">
           <folding />
         </state>
       </provider>
