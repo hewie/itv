@@ -1,6 +1,8 @@
 package de.neuland.itv.persistence;
 
-public interface UserData {
+import java.io.Serializable;
+
+public interface UserData extends Serializable{
 
     String getName();
     String getEmail();
