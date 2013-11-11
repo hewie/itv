@@ -1,6 +1,6 @@
 package de.neuland.itv.parser;
 
-public interface ParserResult {
+public interface UserParseResult {
 	
 	String getName();
 	String getEmail();
