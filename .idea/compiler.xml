@@ -24,7 +24,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="itv" />
+        <module name="controller" />
+        <module name="parser" />
+        <module name="parser-contract" />
+        <module name="persistence" />
+        <module name="persistence-contract" />
+        <module name="validator" />
+        <module name="validator-contract" />
       </profile>
     </annotationProcessing>
   </component>
