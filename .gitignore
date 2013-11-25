@@ -1,5 +1,9 @@
 bin
 target
-.idea
 out
-*.iml
+idea/.idea/scopes
+idea/.idea/worksapce.xml
+idea/.idea/compiler.xml
+idea/.idea/encodings.xml
+idea/.idea/misc.xml
+idea/.idea/libraries

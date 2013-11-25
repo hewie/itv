@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iml/build.iml" filepath="$PROJECT_DIR$/iml/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iml/controller.iml" filepath="$PROJECT_DIR$/iml/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iml/idea.iml" filepath="$PROJECT_DIR$/iml/idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iml/main.iml" filepath="$PROJECT_DIR$/iml/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iml/parser.iml" filepath="$PROJECT_DIR$/iml/parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iml/parser-contract.iml" filepath="$PROJECT_DIR$/iml/parser-contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iml/persistence.iml" filepath="$PROJECT_DIR$/iml/persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iml/persistence-contract.iml" filepath="$PROJECT_DIR$/iml/persistence-contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iml/validator.iml" filepath="$PROJECT_DIR$/iml/validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iml/validator-contract.iml" filepath="$PROJECT_DIR$/iml/validator-contract.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../main/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../main/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../main">
+      <excludeFolder url="file://$MODULE_DIR$/../../main/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="parser" />
+    <orderEntry type="module" module-name="parser-contract" />
+    <orderEntry type="library" name="Maven: org.json:json:20131018" level="project" />
+    <orderEntry type="module" module-name="validator" />
+    <orderEntry type="module" module-name="validator-contract" />
+    <orderEntry type="module" module-name="persistence" />
+    <orderEntry type="module" module-name="persistence-contract" />
+    <orderEntry type="module" module-name="controller" />
+  </component>
+</module>
+
