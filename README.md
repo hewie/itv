@@ -9,6 +9,6 @@ Requirements
 
 Installation
 ============
-* use the scripts available in [build](https://raw.github.com/avalax/itv/build)
+* use the scripts available in [build](https://github.com/avalax/itv/tree/master/build)
 * if you only need a contract use maven in given directory
  
