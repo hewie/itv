@@ -4,23 +4,28 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>controller</artifactId>
-    <name>controller</name>
+    <artifactId>main</artifactId>
+    <name>main</name>
 
     <dependencies>
         <dependency>
             <groupId>itv</groupId>
-            <artifactId>parser-contract</artifactId>
+            <artifactId>parser</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>itv</groupId>
-            <artifactId>validator-contract</artifactId>
+            <artifactId>validator</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>itv</groupId>
-            <artifactId>persistence-contract</artifactId>
+            <artifactId>persistence</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>itv</groupId>
+            <artifactId>controller</artifactId>
             <version>0.0.1</version>
         </dependency>
     </dependencies>
